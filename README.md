@@ -1,1 +1,1 @@
-"# Free-ai-classes-2022" 
+# Free-ai-classes-2022
